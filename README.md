@@ -8,12 +8,11 @@ Sugestão de prática: cada pasta contém exemplos e exercícios para o aluno re
 
 Estrutura da disciplina:
 algoritmos-logica-programacao/
-│
 
-├── 01-introducao/
-│   ├── hello_world.py
-│   └── comentarios.md
-│
+01-introducao/
+- hello_world.py
+- comentarios.md
+
 
 ├── 02-variaveis-operadores/
 │   ├── calculadora.py
