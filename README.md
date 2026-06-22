@@ -9,22 +9,27 @@ Sugestão de prática: cada pasta contém exemplos e exercícios para o aluno re
 Estrutura da disciplina:
 algoritmos-logica-programacao/
 │
+
 ├── 01-introducao/
 │   ├── hello_world.py
 │   └── comentarios.md
 │
+
 ├── 02-variaveis-operadores/
 │   ├── calculadora.py
 │   └── exercicios.md
 │
+
 ├── 03-condicionais/
 │   ├── par_ou_impar.py
 │   └── maior_numero.py
 │
+
 ├── 04-loops/
 │   ├── tabuada.py
 │   └── soma_numeros.py
 │
+
 ├── 05-funcoes/
 │   ├── fatorial.py
 │   └── conversor_temperatura.py
